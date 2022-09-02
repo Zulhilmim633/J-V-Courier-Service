@@ -86,11 +86,11 @@ public class TestParcelsInformation {
 							if (nextDay == 'Y' || nextDay == 'y') {
 								shippingType = "Next day delivery";
 								expect = 1;
-								code = "MYO";
+								code = "MYX";
 							} else {
 								shippingType = "Regular";
 								expect = 7;
-								code = "MYX";
+								code = "MYO";
 						}
 						} else {
 							shippingType = "Regular";
