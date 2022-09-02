@@ -1,25 +1,25 @@
-MYX610926781092;Fatin binti Salleh;Yun binti Roslan;86700;21700;18.82;31.73;33.6;Next day delivery;non-fragile;Domestic;21/5/2021;22/5/2021
-MYX314989956324;Ka bin Masri;Najwa Omar;43600;71150;14.87;48.7;19.37;Next day delivery;fragile;Domestic;2/7/2021;3/7/2021
-MYX581117449043;Chiew bin Man;Mai Hassan;28800;68100;20.81;46.0;19.62;Next day delivery;fragile;Domestic;22/9/2021;23/9/2021
-MYO988081980173;Amirah binti Hashim;Rita Low;16150;43207;1.125;32.43;50.123;Regular;fragile;Domestic;27/7/2021;11/8/2021
-MYO434475018176;Siti bin Jalil;Nyet Leong;71760;83100;15.101;38.104;14.37;Regular;fragile;Domestic;22/5/2021;29/5/2021
-MYX486834160122;Alias Harun;Syahrul binti Saleh;45700;36500;10.119;45.69;7.96;Next day delivery;non-fragile;Domestic;3/12/2021;4/12/2021
-INT651372469696;Norizah bin Amin;Christopher Govindasamy;81000;35600;2.5;50.67;30.89;Regular;non-fragile;International;19/3/2021;8/4/2021
-INT955465795562;Aida binti Bidin;Paul bin Aziz;43400;36700;5.107;32.62;19.114;Regular;fragile;International;9/6/2021;27/6/2021
-MYO372127144474;Ah Kow bin Haron;Yee Shim;17200;33100;19.97;49.113;42.108;Regular;fragile;Domestic;13/4/2021;20/4/2021
-INT699843511560;Salamah binti Hasim;Hoon Wang;35350;11700;5.55;35.6;26.58;Regular;fragile;International;17/10/2021;2/11/2021
-MYO549759833591;Yoon Yow;Swee bin Samsudin;84800;18400;13.112;45.102;37.81;Regular;fragile;Domestic;8/5/2021;17/5/2021
-MYO798401804618;Pak Karim;Yon Naim;42800;11800;12.41;50.22;9.88;Regular;fragile;Domestic;27/11/2021;6/12/2021
-MYX780364849235;Normah binti Sabri;Kum Mahmud;28050;14400;14.109;45.87;23.58;Next day delivery;non-fragile;Domestic;11/12/2021;12/12/2021
-MYO495329784066;Umar binti Hussein;Rosman Lam;23400;77200;0.64;41.0;5.68;Regular;non-fragile;Domestic;11/10/2021;19/10/2021
-MYO171797450821;Razak Chong;Suriani Yeo;34950;32610;3.2;49.33;17.113;Regular;non-fragile;Domestic;11/10/2021;20/10/2021
-MYO107504761104;Zabedah bin Abdul Malek;Ravi Cham;81750;32500;11.13;35.2;30.1;Regular;fragile;Domestic;24/5/2021;6/6/2021
-MYX614337263871;Ku Arshad;Mimi Suhaimi;96250;84500;18.26;42.102;21.39;Next day delivery;fragile;Domestic;4/4/2021;5/4/2021
-INT824606244790;Hamisah Diah;Ghazali bin Dollah;94200;32610;13.105;46.39;22.111;Regular;non-fragile;International;15/11/2021;4/12/2021
-INT616615812833;Anthony Zawawi;Hairul Pang;31200;47000;16.11;49.6;28.62;Regular;fragile;International;29/4/2021;17/5/2021
-MYX733021334410;Jong Ali;Khadijah binti Abd Latif;42700;98200;1.25;41.8;9.2;Next day delivery;non-fragile;Domestic;11/4/2021;12/4/2021
-INT195240233241;Kok Fung;Sook Pan;95900;11700;5.45;49.47;30.28;Regular;fragile;International;10/3/2021;24/3/2021
-INT049735793779;Rohayu Fan;Aini binti Yahaya;21500;21010;18.85;33.34;27.122;Regular;fragile;International;17/9/2021;8/10/2021
-INT097967794928;Encik bin Awang;Tan bin Baharum;21700;33600;7.62;49.67;28.86;Regular;fragile;International;24/5/2021;16/6/2021
-MYX860963888000;Mun bin Sabri;Anna Damit;14200;86600;15.33;36.15;36.117;Next day delivery;non-fragile;Domestic;9/6/2021;10/6/2021
-MYX797886206519;Chek bin Hamzah;Sek binti Sulaiman;94950;81900;5.103;33.73;20.73;Next day delivery;non-fragile;Domestic;12/2/2021;13/2/2021
+MYX6109267381092;Fatin binti Salleh;Yun binti Roslan;86700;21700;18.82;31.73;33.6;Next day delivery;non-fragile;Domestic;21/5/2021;22/5/2021
+MYX3149899546324;Ka bin Masri;Najwa Omar;43600;71150;14.87;48.7;19.37;Next day delivery;fragile;Domestic;2/7/2021;3/7/2021
+MYX5811174499043;Chiew bin Man;Mai Hassan;28800;68100;20.81;46.0;19.62;Next day delivery;fragile;Domestic;22/9/2021;23/9/2021
+MYO9880819801573;Amirah binti Hashim;Rita Low;16150;43207;1.125;32.43;50.123;Regular;fragile;Domestic;27/7/2021;11/8/2021
+MYO4344750181746;Siti bin Jalil;Nyet Leong;71760;83100;15.101;38.104;14.37;Regular;fragile;Domestic;22/5/2021;29/5/2021
+MYX4868341601221;Alias Harun;Syahrul binti Saleh;45700;36500;10.119;45.69;7.96;Next day delivery;non-fragile;Domestic;3/12/2021;4/12/2021
+INT6513372469696;Norizah bin Amin;Christopher Govindasamy;81000;35600;2.5;50.67;30.89;Regular;non-fragile;International;19/3/2021;8/4/2021
+INT9554565795562;Aida binti Bidin;Paul bin Aziz;43400;36700;5.107;32.62;19.114;Regular;fragile;International;9/6/2021;27/6/2021
+MYO3721267144474;Ah Kow bin Haron;Yee Shim;17200;33100;19.97;49.113;42.108;Regular;fragile;Domestic;13/4/2021;20/4/2021
+INT6998435511560;Salamah binti Hasim;Hoon Wang;35350;11700;5.55;35.6;26.58;Regular;fragile;International;17/10/2021;2/11/2021
+MYO5497598433591;Yoon Yow;Swee bin Samsudin;84800;18400;13.112;45.102;37.81;Regular;fragile;Domestic;8/5/2021;17/5/2021
+MYO7984018024618;Pak Karim;Yon Naim;42800;11800;12.41;50.22;9.88;Regular;fragile;Domestic;27/11/2021;6/12/2021
+MYX7803648496235;Normah binti Sabri;Kum Mahmud;28050;14400;14.109;45.87;23.58;Next day delivery;non-fragile;Domestic;11/12/2021;12/12/2021
+MYO4953297841066;Umar binti Hussein;Rosman Lam;23400;77200;0.64;41.0;5.68;Regular;non-fragile;Domestic;11/10/2021;19/10/2021
+MYO1717974507821;Razak Chong;Suriani Yeo;34950;32610;3.2;49.33;17.113;Regular;non-fragile;Domestic;11/10/2021;20/10/2021
+MYO1075047612104;Zabedah bin Abdul Malek;Ravi Cham;81750;32500;11.13;35.2;30.1;Regular;fragile;Domestic;24/5/2021;6/6/2021
+MYX6143372635871;Ku Arshad;Mimi Suhaimi;96250;84500;18.26;42.102;21.39;Next day delivery;fragile;Domestic;4/4/2021;5/4/2021
+INT8246062445790;Hamisah Diah;Ghazali bin Dollah;94200;32610;13.105;46.39;22.111;Regular;non-fragile;International;15/11/2021;4/12/2021
+INT6166158123833;Anthony Zawawi;Hairul Pang;31200;47000;16.11;49.6;28.62;Regular;fragile;International;29/4/2021;17/5/2021
+MYX7330213348410;Jong Ali;Khadijah binti Abd Latif;42700;98200;1.25;41.8;9.2;Next day delivery;non-fragile;Domestic;11/4/2021;12/4/2021
+INT1952402332241;Kok Fung;Sook Pan;95900;11700;5.45;49.47;30.28;Regular;fragile;International;10/3/2021;24/3/2021
+INT0497357931779;Rohayu Fan;Aini binti Yahaya;21500;21010;18.85;33.34;27.122;Regular;fragile;International;17/9/2021;8/10/2021
+INT0979677941928;Encik bin Awang;Tan bin Baharum;21700;33600;7.62;49.67;28.86;Regular;fragile;International;24/5/2021;16/6/2021
+MYX8609638881000;Mun bin Sabri;Anna Damit;14200;86600;15.33;36.15;36.117;Next day delivery;non-fragile;Domestic;9/6/2021;10/6/2021
+MYX7978862061519;Chek bin Hamzah;Sek binti Sulaiman;94950;81900;5.103;33.73;20.73;Next day delivery;non-fragile;Domestic;12/2/2021;13/2/2021
