@@ -16,6 +16,7 @@ public class ParcelsInformation {
 	private String ShippingDate;
 	private String DeliveryDate; // initially set value to null
 
+	// Default constructor
 	public ParcelsInformation() {
 		// TODO Auto-generated constructor stub
 		this.TrackingNumber = null;
@@ -33,9 +34,8 @@ public class ParcelsInformation {
 		this.DeliveryDate = null;
 	}
 
-	public ParcelsInformation(String TrackinNumber, String SenderName, String RecipientName, int PostcodeTo,
-			int PostcodeFrom, double ParcelWeight, double ParcelLength, double ParcelHeight, String shippingType,
-			String ParcelType, String ShippingCategory, String ShippingDate, String DeliveryDate) {
+	// Normal constructor
+	public ParcelsInformation(String TrackinNumber, String SenderName, String RecipientName, int PostcodeTo,int PostcodeFrom, double ParcelWeight, double ParcelLength, double ParcelHeight, String shippingType,String ParcelType, String ShippingCategory, String ShippingDate, String DeliveryDate) {
 		this.TrackingNumber = TrackinNumber;
 		this.SenderName = SenderName;
 		this.RecipientName = RecipientName;
@@ -51,6 +51,7 @@ public class ParcelsInformation {
 		this.DeliveryDate = DeliveryDate;
 	}
 
+	// Muttator / Setter
 	public void setTrackingNumber(String TrackingNum) {
 		TrackingNumber = TrackingNum;
 	}
@@ -103,9 +104,8 @@ public class ParcelsInformation {
 		DeliveryDate = DeliverDate;
 	}
 
-	public void setParcelsInformation(String TrackinNumber, String SenderName, String RecipientName, int PostcodeTo,
-			int PostcodeFrom, double ParcelWeight, double ParcelLength, double ParcelHeight, String shippingType,
-			String ParcelType, String ShippingCategory, String ShippingDate, String DeliveryDate) {
+	// Mutator/Setter for all
+	public void setParcelsInformation(String TrackinNumber, String SenderName, String RecipientName, int PostcodeTo,int PostcodeFrom, double ParcelWeight, double ParcelLength, double ParcelHeight, String shippingType,String ParcelType, String ShippingCategory, String ShippingDate, String DeliveryDate) {
 		this.TrackingNumber = TrackinNumber;
 		this.SenderName = SenderName;
 		this.RecipientName = RecipientName;
@@ -121,6 +121,7 @@ public class ParcelsInformation {
 		this.DeliveryDate = DeliveryDate;
 	}
 
+	// Accessor/Getter
 	public String getTrackingNumber() {
 		return TrackingNumber;
 	}
@@ -173,6 +174,7 @@ public class ParcelsInformation {
 		return DeliveryDate;
 	}
 
+	// Processer to calculate shipping rate
 	public String CalculateShippingRate() {
 		DecimalFormat formater = new DecimalFormat("RM #,###.00");
 		double shippingRate;
@@ -190,11 +192,8 @@ public class ParcelsInformation {
 		return formater.format(shippingRate);
 	}
 
+	// Printer
 	public String toString() {
-		return ("Tracking Number : " + TrackingNumber + "\nSender : " + SenderName + "\nRecipient : " + RecipientName
-		+ "\nRecipient Postcode :" + PostcodeTo + "\nSender Postcode : " + PostcodeFrom + "\nParcel Weight : "
-				+ ParcelWeight + "\nParcel Length : " + ParcelLength + "\nParcel Height : " + ParcelHeight
-				+ "\nShipping Type : " + ShippingType + "\nParcel Type : " + ParcelType + "\nShipping Category : "
-				+ ShippingCategory + "\nShipping Date : " + ShippingDate + "\nDelivery Date : " + DeliveryDate+"\nShipping Rate : "+CalculateShippingRate());
+		return ("Tracking Number : " + TrackingNumber + "\nSender : " + SenderName + "\nRecipient : " + RecipientName+ "\nRecipient Postcode :" + PostcodeTo + "\nSender Postcode : " + PostcodeFrom + "\nParcel Weight : "+ ParcelWeight + "\nParcel Length : " + ParcelLength + "\nParcel Height : " + ParcelHeight+ "\nShipping Type : " + ShippingType + "\nParcel Type : " + ParcelType + "\nShipping Category : "+ ShippingCategory + "\nShipping Date : " + ShippingDate + "\nDelivery Date : " + DeliveryDate+ "\nShipping Rate : " + CalculateShippingRate());
 	}
 }
